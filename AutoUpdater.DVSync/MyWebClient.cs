@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Net;
 
-namespace AutoUpdaterDotNET
+namespace AutoUpdaterDVSync
 {
     /// <inheritdoc />
     public class MyWebClient : WebClient

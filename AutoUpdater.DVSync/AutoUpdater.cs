@@ -11,9 +11,9 @@ using System.Threading;
 using System.Windows.Forms;
 using System.Xml;
 using System.Xml.Serialization;
-using AutoUpdaterDotNET.Properties;
+using AutoUpdaterDVSync.Properties;
 
-namespace AutoUpdaterDotNET
+namespace AutoUpdaterDVSync
 {
     /// <summary>
     ///     Enum representing the remind later time span.

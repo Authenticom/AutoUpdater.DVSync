@@ -6,7 +6,7 @@ using System.IO;
 using System.Windows.Forms;
 using Microsoft.Win32;
 
-namespace AutoUpdaterDotNET
+namespace AutoUpdaterDVSync
 {
     internal partial class UpdateForm : Form
     {
@@ -186,5 +186,30 @@ namespace AutoUpdaterDotNET
                 e.Cancel = ModifierKeys == Keys.Alt || ModifierKeys == Keys.F4;
             }
         }
+
+    private void webBrowser_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
+    {
+
     }
+
+    private void labelDescription_Click(object sender, EventArgs e)
+    {
+
+    }
+
+    private void labelUpdate_Click(object sender, EventArgs e)
+    {
+
+    }
+
+    private void pictureBoxIcon_Click(object sender, EventArgs e)
+    {
+
+    }
+
+    private void labelReleaseNotes_Click(object sender, EventArgs e)
+    {
+
+    }
+  }
 }

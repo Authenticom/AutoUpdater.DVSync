@@ -4,7 +4,7 @@ using System.Runtime.Serialization;
 using System.Runtime.Serialization.Json;
 using System.Text;
 
-namespace AutoUpdaterDotNET
+namespace AutoUpdaterDVSync
 {
     /// <summary>
     /// Provides a mechanism for storing AutoUpdater state between sessions on a Json formatted file.

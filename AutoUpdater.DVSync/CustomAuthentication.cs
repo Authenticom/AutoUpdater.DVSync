@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace AutoUpdaterDotNET
+namespace AutoUpdaterDVSync
 {
     /// <summary>
     ///     Provides Custom Authentication header for web request.

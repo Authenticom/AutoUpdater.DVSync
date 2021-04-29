@@ -2,7 +2,7 @@
 using System.Globalization;
 using Microsoft.Win32;
 
-namespace AutoUpdaterDotNET
+namespace AutoUpdaterDVSync
 {
     /// <summary>
     /// Provides a mechanism for storing AutoUpdater state between sessions based on storing data on the Windows Registry.

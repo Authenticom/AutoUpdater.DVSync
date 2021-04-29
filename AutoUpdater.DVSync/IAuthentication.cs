@@ -1,4 +1,4 @@
-﻿namespace AutoUpdaterDotNET
+﻿namespace AutoUpdaterDVSync
 {
 
     /// <summary>

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AutoUpdaterDotNET
+namespace AutoUpdaterDVSync
 {
     /// <summary>
     /// Provides a mechanism for storing AutoUpdater state between sessions.

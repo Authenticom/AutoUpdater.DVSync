@@ -1,4 +1,4 @@
-﻿namespace AutoUpdaterDotNET
+﻿namespace AutoUpdaterDVSync
 {
     partial class DownloadUpdateDialog
     {
@@ -38,7 +38,7 @@
             // 
             // pictureBoxIcon
             // 
-            this.pictureBoxIcon.Image = global::AutoUpdaterDotNET.Properties.Resources.download_32;
+            this.pictureBoxIcon.Image = global::AutoUpdaterDVSync.Properties.Resources.download_32;
             resources.ApplyResources(this.pictureBoxIcon, "pictureBoxIcon");
             this.pictureBoxIcon.Name = "pictureBoxIcon";
             this.pictureBoxIcon.TabStop = false;

@@ -2,7 +2,7 @@
 using System.Net;
 using System.Text;
 
-namespace AutoUpdaterDotNET
+namespace AutoUpdaterDVSync
 {
     /// <summary>
     ///     Provides Basic Authentication header for web request.

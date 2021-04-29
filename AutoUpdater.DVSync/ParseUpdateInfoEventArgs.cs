@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AutoUpdaterDotNET
+namespace AutoUpdaterDVSync
 {
     /// <summary>
     ///     An object of this class contains the AppCast file received from server.

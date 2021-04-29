@@ -4,7 +4,7 @@ using System.Reflection;
 using System.Threading;
 using System.Windows;
 using System.Windows.Threading;
-using AutoUpdaterDotNET;
+using AutoUpdaterDVSync;
 
 namespace AutoUpdaterTestWPF
 {

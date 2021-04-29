@@ -8,9 +8,9 @@ using System.Net.Mime;
 using System.Security.Cryptography;
 using System.Text;
 using System.Windows.Forms;
-using AutoUpdaterDotNET.Properties;
+using AutoUpdaterDVSync.Properties;
 
-namespace AutoUpdaterDotNET
+namespace AutoUpdaterDVSync
 {
     internal partial class DownloadUpdateDialog : Form
     {
