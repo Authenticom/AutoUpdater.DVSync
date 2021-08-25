@@ -125,7 +125,7 @@ namespace AutoUpdaterTest
       //AutoUpdater.InstalledVersion = new Version("2.0.0.1");
 
       AutoUpdater.AppTitle = "DVSync";
-      AutoUpdater.Start("https://dealer.dealervault.com/dealervault/dvsync/update.xml");
+      AutoUpdater.Start("https://dvsync.blob.core.windows.net/updates/update.xml");
     }
 
     private void AutoUpdater_ApplicationExitEvent()
@@ -242,7 +242,7 @@ namespace AutoUpdaterTest
       //}
 
       // AutoUpdater.Mandatory = true;
-      AutoUpdater.Start("https://dealer.dealervault.com/dealervault/dvsync/update.xml");
+      AutoUpdater.Start("https://dvsync.blob.core.windows.net/updates/update.xml");
     }
   }
 }
